@@ -53,8 +53,9 @@ Instalación
    python manage.py runserver
    ```
 
-📡 Endpoints principales
+7 **📡 Endpoints principales**
 
+```
 GET /api/productos/ = Lista de productos
 
 GET /api/productos/{id}/ = Detalle de producto
@@ -64,3 +65,4 @@ POST /api/productos/ = Crear producto
 PUT /api/productos/{id}/ = Editar producto
 
 DELETE /api/productos/{id}/ = Eliminar producto
+```
